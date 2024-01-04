@@ -6,8 +6,6 @@ from sklearn.linear_model import LinearRegression
 # Load the dataset
 df = pd.read_csv("/content/wrestling_data.csv")
 
-# Drop irrelevant columns and handle missing values
-# You can use the preprocessing steps from the previous code
 
 # Scatter plot with linear regression line
 plt.figure(figsize=(12, 8))
@@ -19,7 +17,7 @@ plt.ylabel('Final Rank')
 plt.legend()
 plt.show()
 
-# Calculate correlation coefficient
+# Calculating correlation coefficient
 correlation_coefficient = df['age'].corr(df['rank'])
 print(f"Correlation Coefficient between Age and Final Rank: {correlation_coefficient}")
 
