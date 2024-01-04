@@ -1,6 +1,7 @@
-<img src="https://github.com/vasilaAliyeva/dataproject/assets/118609255/6938ca39-de1b-4843-b557-49e07efef1aa" width="500">
-
 # Wrestling World Tournament
+
+<img src="https://github.com/RahimaKarimova/dataproject/assets/118609255/1c682ef8-9977-4219-9a2b-d50fd023e9c2" width="500">
+
 Jupyter notebook to predict the final rank of wrestlers in a wrestling tournament.
 
 -- Project Status: [Completed]
