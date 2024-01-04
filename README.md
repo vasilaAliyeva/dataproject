@@ -1,5 +1,5 @@
-![WhatsApp Image 2024-01-04 at 20 34 29](https://github.com/vasilaAliyeva/dataproject/assets/118609255/6938ca39-de1b-4843-b557-49e07efef1aa)
-# dataproject 
+<img src="https://github.com/vasilaAliyeva/dataproject/assets/118609255/6938ca39-de1b-4843-b557-49e07efef1aa" width="500">
+
 # Wrestling World Tournament
 Jupyter notebook to predict the final rank of wrestlers in a wrestling tournament.
 
